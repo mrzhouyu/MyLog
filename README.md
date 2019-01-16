@@ -1,4 +1,4 @@
-# mylog
+# myblog
 My forms is created by Django
 
 这是一个Django设计的表单登陆
